@@ -90,4 +90,4 @@ If you use this work, please cite our paper (details coming soon).
 ---
 
 ## 🔬 Lab
-Developed under **Bukhari Lab** https://bukharilab.org
+Research and Developed by: https://bukharilab.org
